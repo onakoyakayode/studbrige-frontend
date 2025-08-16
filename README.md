@@ -18,3 +18,5 @@ How to use Git commands.
 8. git pull --> to pull from remote to local.
 9. git clone --> to clone a remote project to your local system.
 10. git fetch --> to fetch remote branches.
+11. git checkout --> to Switch between branches
+
