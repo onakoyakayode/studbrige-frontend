@@ -21,6 +21,7 @@ How to use Git commands.
 11. git push to the server --> git push origin branch name
 12. git branch --> to list all the branches available
 13. git checkout --> is used to switch between branches
+14. git commit -m "" --> to comment your latest task
 
 -- How to clone a project to your local system
 
